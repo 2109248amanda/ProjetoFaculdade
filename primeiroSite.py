@@ -12,9 +12,9 @@ def homepage():
 def contatos():
     return "Nossos contatos são: E-mail: trabalhounivesp@gmail.com Telefone(11)99999-9999"
 
-@app.route("/crianca")
+@app.route("/doação")
 def infantil():
-    return "AQUI AS CRIANÇAS BRINCAM E SE DIVERTEM"
+    return "fremework web paraordenação de doações online"
 #colocar o site no ar
 
 if __name__=="__main__":
