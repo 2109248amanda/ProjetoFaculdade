@@ -2,7 +2,7 @@ from flask import Flask
 
 app = Flask(__name__)
 #route -> saolourencodaserradoacoes.com/contatos
-#função -> o que você quer exibir naquela página
+#função -> o qn  mcmcmue você quer exibir naquela página
 
 @app.route("/")
 def homepage():
